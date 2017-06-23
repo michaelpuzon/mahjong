@@ -1,0 +1,234 @@
+[
+{
+  "id": "microapps",
+  "name": "microapps",
+  "description": "<a href='http://microapps.com/were-hiring/?utm_source=npm_who_is_hiring_page&utm_medium=web&utm_campaign=npm_who_is_hiring'>microapps</a> is the <a href='https://www.moonmail.io/?utm_source=npm_who_is_hiring_page&utm_medium=web&utm_campaign=npm_who_is_hiring'>MoonMail</a> and <a href='http://monei.net/?utm_source=npm_who_is_hiring_page&utm_medium=web&utm_campaign=npm_who_is_hiring'>MONEI</a> father. We dream & breathe node. We’re hiring JS engineers of all types.",
+  "url": "http://microapps.com/were-hiring/?utm_source=npm_who_is_hiring_page&utm_medium=web&utm_campaign=npm_who_is_hiring",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/microapps.png"
+}, {
+  "id": "opentable",
+  "name": "OpenTable",
+  "description": "<a href='http://www.opentable.com/careers/jobs/?jvi=oJsz2fww,Job&p=job%2FoJsz2fww'>OpenTable</a> is looking for Node.js engineers to build our web platform, impacting our entire suite of restaurant software products.",
+  "url": "http://www.opentable.com/careers/jobs/?jvi=oJsz2fww,Job&p=job%2FoJsz2fww",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/opentable.png"
+}, {
+  "id": "newscred",
+  "name": "NewsCred",
+  "description": "We are the fastest growing start up in NYC and are looking to <a href='http://www.newscred.com/careers'>expand our team of engineers</a> to include: Automation, Sr Search, Full Stack and Javascript Engineers.",
+  "url": "http://www.newscred.com/careers",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/newscred.png"
+}, {
+  "id": "tinder",
+  "name": "Tinder",
+  "description": "<a href='http://www.tinder.com/jobs'>Tinder</a> is a fun new way to meet people. We're looking for Backend and/or Full-Stack Node.js Software Engineers. Come join us!",
+  "url": "http://www.tinder.com/jobs",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/tinder.png"
+}, {
+  "id": "overpass",
+  "name": "Overpass",
+  "description": "Love web based systems? We're hiring Sr. Javascript Engineers here at <a href='http://www.overpass.com/careers.html'>Overpass</a>, come check us out!",
+  "url": "http://www.overpass.com/careers.html",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/overpass.png"
+}, {
+  "id": "redbadger",
+  "name": "Red Badger",
+  "description": "Join <a href='http://red-badger.com/about-us/join-us/software-engineer/'>Red Badger</a> & build beautiful software with bleeding edge tech. Strong Node or Ruby, JavaScript required. React - even better!",
+  "url": "http://red-badger.com/about-us/join-us/software-engineer/",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/redbadger.png"
+}, {
+  "id": "zendigital",
+  "name": "Zen Digital",
+  "description": "<a href='http://zendigital.com/job/javascript-angularjs-nodejs/'>Zen Digital</a> is seeking a Fullstack JavaScript/MEAN Developer to head up our dev department and report directly to the CEO.",
+  "url": "http://zendigital.com/job/javascript-angularjs-nodejs/",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/zendigital.png"
+}, {
+  "id": "alpha",
+  "name": "Alpha",
+  "description": "Some of the largest companies in the world rely on <a href='http://eng.alphahq.com/apply/'>Alpha</a> to generate user insights and build better product. Experiment with us!",
+  "url": "http://eng.alphahq.com/apply/",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/alpha.png"
+}, {
+  "id": "livingdocs",
+  "name": "Livingdocs",
+  "description": "<a href='https://livingdocs.workable.com/'>Livingdocs</a> enables media houses to create unique content in a powerful way. We're looking for experienced Javascript talent.",
+  "url": "https://livingdocs.workable.com/",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/livingdocs.png"
+}, {
+  "id": "guevara",
+  "name": "Guevara",
+  "description": "We’re looking for a back end node savvy engineer to join our incredible team at <a href='https://guevara.workable.com/jobs/65920'>Guevara</a>.",
+  "url": "https://guevara.workable.com/jobs/65920",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/guevara.png"
+}, {
+  "id": "airtable",
+  "name": "Airtable",
+  "description": "['Airtable', 'you'].join( 💜 ); <a href='https://airtable.com/jobs'>Airtable</a> is the realtime collaborative end-user database for everyone from filmmakers to dairy farmers.",
+  "url": "https://airtable.com/jobs",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/airtable.png"
+}, {
+  "id": "help",
+  "name": "Help.com",
+  "description": "<a href='http://help.com/#were-hiring'>Help.com</a> just raised $6 million and is hiring talented Node.js engineers in Austin to build our platform.",
+  "url": "http://help.com/#were-hiring",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/help.png"
+}, {
+  "id": "yellowpagescanada",
+  "name": "Yellow Pages Canada",
+  "description": "Willing to relocate to Montreal, Canada? <a href='https://jobs-emplois.yp.ca/jobs/développeur-full-stack-mean-1114'>Yellow Pages</a> (3000 employees) is hiring +25 Full-Stack Dev, MEAN Stack till Summer 2017",
+  "url": "https://jobs-emplois.yp.ca/jobs/développeur-full-stack-mean-1114",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/yellowpagescanada.png"
+}, {
+  "id": "interactiveintelligence",
+  "name": "ININ",
+  "description": "<a href='http://www.inin.com/careers/Pages/Positions.aspx?jvi=oYwp1fwE,Job'>Interactive Intelligence</a> is developing real-time cloud based chat services using technologies like Node.js, Mongo, Redis, Kafka, AWS and Zookeeper.",
+  "url": "http://www.inin.com/careers/Pages/Positions.aspx?jvi=oYwp1fwE,Job",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/interactiveintelligence.png"
+}, {
+  "id": "wearereasonablepeople",
+  "name": "WEAREREASONABLEPEOPLE",
+  "description": "Join <a href='http://wearereasonablepeople.nl/vacancy/javascript-developers-node-js-angularjs/'>WEAREREASONABLEPEOPLE</a>, the fastest growing team of JavaScript champions in The Netherlands! We're looking for talented & experienced full-stack developers to join our international team in Rotterdam. Contact us today!",
+  "url": "http://wearereasonablepeople.nl/vacancy/javascript-developers-node-js-angularjs/",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/wearereasonablepeople.png"
+}, {
+  "id": "hart",
+  "name": "Hart",
+  "description": "<a href='http://hart.com/careers'>Hart</a> helps you track and manage your daily health and fitness activities. We're hiring Node.js, Scala, and Saltstack engineers.",
+  "url": "http://hart.com/careers",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/hart.png"
+}, {
+  "id": "paperg",
+  "name": "PaperG",
+  "description": "<a href='http://www.paperg.com/careers#wa-senior-software-engineer--full-stack'>PaperG</a> is making A.I-assisted design scale. We like curious people who can take ownership and solve difficult technical problems.",
+  "url": "http://www.paperg.com/careers#wa-senior-software-engineer--full-stack",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/paperg.png"
+}, {
+  "id": "edyn",
+  "name": "Edyn",
+  "description": "<a href='https://angel.co/edyn/jobs'>Edyn</a> is 1 of the 5 fastest growing companies in IoT. Our back end is in node, and we’re hiring JS engineers of all types.",
+  "url": "https://angel.co/edyn/jobs",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/edyn.png"
+}, {
+  "id": "directlyrics",
+  "name": "Directlyrics",
+  "description": "<a href='http://www.directlyrics.com/programmer/'>Directlyrics</a> is building a new innovative music product and is looking for Dutch javascript talent experienced with Node.js.",
+  "url": "http://www.directlyrics.com/programmer/",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/directlyrics.png"
+}, {
+  "id": "mulesoft",
+  "name": "MuleSoft",
+  "description": "<a href='http://www.mulesoft.com/careers'>Mulesoft</a> is looking for node.js Developers to join our smart and talented team of Core Services engineers in San Francisco.",
+  "url": "http://www.mulesoft.com/careers",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/mulesoft.png"
+}, {
+  "id": "brightcove",
+  "name": "Brightcove, Inc.",
+  "description": "<a href='https://www.brightcove.com/en/company/careers'>Brightcove</a> is seeking a developer wanting to be a technical leader for video on the web, and a critical contributor to a massive online service.",
+  "url": "https://www.brightcove.com/en/company/careers",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/brightcove.png"
+}, {
+  "id": "trivago",
+  "name": "trivago",
+  "description": "ES2015+ genius? Know JavaScript application architecture? Join <a href='http://bit.ly/25iTaY1'>trivago</a> and experiment with the newest technologies!",
+  "url": "http://bit.ly/25iTaY1",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/trivago.png"
+}, {
+  "id": "brandingbrand",
+  "name": "BrandingBrand.com",
+  "description": "<a href='http://www.brandingbrand.com/jobs'>Branding Brand</a> leverages node.js to <a href='http://www.brandingbrand.com/pages/about'>power commerce</a>  for big companies like Costco, Wayfair, AE, +200 other high-profile retailers.",
+  "url": "http://www.brandingbrand.com/jobs",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/brandingbrand.png"
+}, {
+  "id": "meadow",
+  "name": "Meadow",
+  "description": "<a href='https://getmeadow.com/jobs'>Meadow</a> (YC W15) provides medical marijuana on-demand. Join 3 engineers on the founding team as our first hire for Node.js + React.",
+  "url": "https://getmeadow.com/jobs",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/meadow.png"
+}, {
+  "id": "hbo",
+  "name": "HBO",
+  "description": "At <a href='https://careers.timewarner.com/tgwebhost/jobdetails.aspx?partnerid=391&siteid=36&jobid=755381'>HBO</a>, you will work with some of the most exciting, new technologies to provide rich content to our video streaming applications, at massive scale.",
+  "url": "https://careers.timewarner.com/tgwebhost/jobdetails.aspx?partnerid=391&siteid=36&jobid=755381",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/hbo.png"
+}, {
+  "id": "alipes",
+  "name": "Alipes",
+  "description": "<a href='http://alipes.com/agency/node-js-developer'>Alipes</a> is seeking mid-senior level NodeJS dev w/frontend exp for onsite position at a fun & creative agency on Boston’s waterfront.",
+  "url": "http://alipes.com/agency/node-js-developer",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/alipes.png"
+}, {
+  "id": "hired",
+  "name": "Hired",
+  "description": "<a href='https://hired.com/join/?utm_source=npmjs&utm_medium=sponsor&utm_campaign=(b2c)(l-all)(r-swe)(q1-17-whos-hiring-page)'>Hired</a> is a platform where engineers can apply to dozens of jobs at once. Top companies like Uber, GitHub, & Square use Hired to recruit. Try it today!",
+  "url": "https://hired.com/join/?utm_source=npmjs&utm_medium=sponsor&utm_campaign=(b2c)(l-all)(r-swe)(q1-17-whos-hiring-page)",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/hired.png"
+}, {
+  "id": "ftlabs",
+  "name": "FTLabs",
+  "description": "The Financial Times is a global news organisation. <a href='http://labs.ft.com/jobs/'>FT Labs</a> has award-winning HTML5 expertise and runs respected <a href='https://github.com/ftlabs'>open source projects</a>.",
+  "url": "http://labs.ft.com/jobs/",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/ftlabs.png"
+}, {
+  "id": "wealthfront",
+  "name": "Wealthfront",
+  "description": "Here at <a href='http://grnh.se/6dpmi7'>Wealthfront</a>, we passionately believe in our mission to democratize sophisticated financial advice and in our engineering-driven culture. Come join us!",
+  "url": "http://grnh.se/6dpmi7",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/wealthfront.png"
+}, {
+  "id": "voxer",
+  "name": "Voxer",
+  "description": "Come join us at <a href='http://www.voxer.com/careers/'>Voxer</a> & work on a powerful push-to-talk service! We are looking for node.js Eng, iOS/Android Eng, Ops Eng, & more!",
+  "url": "http://www.voxer.com/careers/",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/voxer.png"
+}, {
+  "id": "pingup",
+  "name": "Pingup",
+  "description": "<a href='https://pingup.workable.com/jobs/415736'>Pingup</a> is a rapidly growing startup in Boston that is creating the future of transactions for local service businesses.  We are hiring Node.js and browser-side Javascript developers to help scale our platform. Think you have what it takes? Come join us!",
+  "url": "https://pingup.workable.com/jobs/415736",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/pingup.png"
+}, {
+  "id": "quikorder",
+  "name": "QuikOrder",
+  "description": "<a href='https://stackoverflow.com/jobs/companies/quikorder'>QuikOrder</a> is the leading e-commerce provider for large restaurant chains. We seek node engineers to build a next generation PaaS.",
+  "url": "https://stackoverflow.com/jobs/companies/quikorder",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/quikorder.png"
+}, {
+  "id": "lob",
+  "name": "lob.com",
+  "description": "<a href='https://www.lob.com/'>Lob.com</a> is looking for node.js engineers who are passionate about building APIs to join our team in San Francisco.",
+  "url": "https://www.lob.com/jobs",
+  "hiring": true,
+  "logo_url": "https://partners.npmjs.com/logos/lob.png"
+}
+]

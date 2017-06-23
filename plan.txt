@@ -1,0 +1,34 @@
+Back End Game
+inventory of available tiles
+inventory of discarded tiles
+inventory of hand of each player
+
+Front End Game
+  allow picking
+  allow discard
+
+
+
+show recent discarded tiles
+show amount of remaining tiles
+show the other player lifted tiles
+
+skin the tiles
+  setup all different tiles
+
+client actions
+  initial draw
+
+  discard
+
+Done
+
+BE
+  setup initial tiles
+  draw
+
+
+FE
+  draw initial set of tiles
+  drag and drop to re-order tiles
+  show the lifted tiles
